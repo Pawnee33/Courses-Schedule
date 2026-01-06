@@ -2,13 +2,13 @@
 # # Courses Schedule
 
 
-Un outil pour faciliter la création et la gestion d’un planning de cours, permettant aux enseignants et étudiants d’organiser leurs horaires de manière claire et efficace.
+A tool to facilitate the creation and management of a course schedule, allowing teachers and students to organise their timetables clearly and efficiently.
 ## Description
-Ce projet aide à générer un planning de cours automatiquement ou à le modifier facilement. Il permet de :
-- Visualiser les cours sur une semaine ou un mois
-- Éviter les conflits d’horaires
-- Recevoir des rappels pour les cours à venir
-- Qui pourra être utilisé sur internet ou une application mobile
-### Explication du projet
-Les élèves donneront trois disponibilités dans l'application pour que l'application propose trois planning différents avec les heures de chaque élèves pour pouvoir faciliter la décision du planning pour les élèves et le profsseur. 
+This project helps to generate a course schedule automatically or to modify it easily. It allows you to:
+- View courses over a week or a month
+- Avoid timetable conflicts
+- Receive reminders for upcoming courses
+- Use the tool on the internet or a mobile app
+### Project explanation
+Students will enter three availability options into the app so that it can suggest three different timetables with each student's hours, making it easier for students and teachers to decide on a timetable. 
 
