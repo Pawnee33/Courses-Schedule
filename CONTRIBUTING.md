@@ -1,11 +1,11 @@
 # Contributing
-## Utilisez ces directives pour comprendre comment contribuer à ce projet
-Pour ce projet vous devrez utiliser Python comme language.
+## Use these guidelines to understand how to contribute to this project
+For this project, you will need to use Python as your language.
 ### Pull Request Process
-1-Créez une fourche du référentiel.
-2-Validez vos modifications dans votre fourche.
-3-Soumettez une demande d'extraction. N'oubliez pas de vous ajouter dans le fichier Authors !
-4-Traitez tous les commentaires avant que la demande ne soit fusionnée.
+1-Create a fork of the repository.
+2-Commit your changes to your fork.
+3-Submit a pull request. Don't forget to add yourself to the Authors file!
+4-Address any comments before the request is merged.
 
 
 
